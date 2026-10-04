@@ -2,7 +2,7 @@
 
 # HAMADA-LAB
 
-**Builder · Full-stack engineer · Product-minded developer**
+**Builder · ai engineer · Product-minded developer**
 
 Shipping real products for businesses in Ethiopia and beyond — from restaurant operations to ML tools.
 
