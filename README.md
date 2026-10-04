@@ -29,7 +29,7 @@ I design and build end-to-end web products: clean UI, solid TypeScript backends,
 | **[TerraPulse ML](https://github.com/HAMADA-LAB/terrapulse-ml)** | Python · Streamlit · scikit-learn | Housing / real-estate ML pipeline and interactive app |
 | **[SpamShield AI](https://github.com/HAMADA-LAB/spam-detection)** | Python · Streamlit · SVM | Spam vs ham classifier with TF-IDF and a polished Streamlit UI |
 | **[Screenshot Sage](https://github.com/HAMADA-LAB/v0-screenshot-sage-pwa)** | Next.js · Tesseract.js | Privacy-first PWA — local OCR and technical insights from screenshots |
-| **[CyberPulse](https://github.com/HAMADA-LAB/secure-pulse-insight)** | React · TanStack · Recharts | Real-time style security dashboard (synthetic data / demo mode) |
+
 
 *Other work (private): IBDAA design workbench, Noor Auto Glass, agri-tech (Siso Harvest IQ), auto marketplace experiences.*
 
